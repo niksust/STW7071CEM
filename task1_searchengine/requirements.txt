@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+schedule
+beautifulsoup4
+lxml
+certifi
+streamlit
