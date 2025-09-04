@@ -19,7 +19,7 @@ A domain-specific search engine focused on retrieving publications authored by m
 - Query processor with tokenisation, stopword removal, stemming, cosine similarity ranking.  
 - Simple web interface for queries (Google Scholar style).  
 
-👉 Detailed instructions are available in [`task1_searchengine/README.md`](task1_searchengine/README.md).  
+👉 Detailed instructions are available in [`task1_searchengine/readme.md`](task1_searchengine/readme.md).  
 
 ---
 
@@ -34,7 +34,7 @@ A text classifier that automatically assigns documents into **Politics**, **Busi
 - Evaluation with precision, recall, F1-score, and confusion matrix.  
 - Web interface where users input text and receive predictions.  
 
-👉 Detailed instructions are available in [`task2_classifier/README.md`](task2_classifier/README.md).  
+👉 Detailed instructions are available in [`task2_classifier/readme.md`](task2_classifier/readme.md).  
 
 ---
 
